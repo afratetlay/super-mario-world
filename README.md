@@ -4,7 +4,7 @@ Super Mario World
 I have created a Super Mario Themed map in relation to the Super Mario World Theme park in Japan. 
 
 <h1 align="center">
-  <img src="yoshi_house.svg" alt="Super Hero" style="width:500px;height:600px;"/>
+  <img src="yoshi_house.svg" alt="Super Mario" style="width:500px;height:600px;"/>
 </h1>
 
 ## Table of Contents
