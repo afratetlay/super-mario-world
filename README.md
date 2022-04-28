@@ -10,8 +10,6 @@ I have created a Super Mario Themed map in relation to the Super Mario World The
 ## Table of Contents
 1. [**UX**](#ux)
     - [**Project Goals**](#project-goals)
-    - [**Developer Goals**](#developer-Goals)
-    - [**User Stories**](#user-stories)
 
 2. [**Technologies used**](#technologies-used)
 
@@ -49,16 +47,13 @@ This is quite a simple looking project, with the main aim of having included API
 ## Technologies and Code Used
 
 - This project uses HTML, CSS and JavaScript programming languages.
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [Google Maps API](https://developers.google.com/maps) 
+    - Developer used **Visual Studio Code** to create the game in. 
 - [Visual Studio Code](https://code.visualstudio.com/) 
     - Developer used **Gitpod** to create the game in. 
 - [GitHub](https://github.com/)
     - This project uses **GitHub** to store and share all project code remotely. 
-    - The new GitHub Projects planner was utilised to plan and keep track of this project. This project plan can be viewed [here](https://github.com/AJGreaves/picflip/projects/1).
-- [Illustrator](www.adobe.com/Illustrator)
-    - This project used tools in **Illustrator** to edit, crop and save images into png.
-- C
+
 
 ## Testing 
 
@@ -77,21 +72,11 @@ To deploy Super Mario Map! to GitHub Pages from its [GitHub repository](https://
 6. On selecting Master Branch the page is automatically refreshed, PicFlip! is now deployed. 
 7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
 
-## Credits
-
-### Content
-
-- All text in this project was written by the developer.
-
-### Media
-
 
 ### Acknowledgements
 
 Special thanks to: 
 Coder Coder 
-
-
 
 Thank you for taking your time to read this. 
 
