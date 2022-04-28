@@ -56,7 +56,7 @@ Testing information can be found in separate [testing.md](testing.md) file
 
 ## Deployment
 
-This project was developed using the [[Visual Studio Code](https://code.visualstudio.com/), committed to git and pushed to GitHub. 
+This project was developed using the [Visual Studio Code](https://code.visualstudio.com/), committed to git and pushed to GitHub. 
 
 To deploy Super Mario Map! to GitHub Pages from its [GitHub repository](https://github.com/afratetlay/super-mario-world), the following steps were taken: 
 1. Log into GitHub. 
