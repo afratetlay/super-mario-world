@@ -43,9 +43,9 @@ This is quite a simple looking project, with the main aim of having included API
 
 - This project uses HTML, CSS and JavaScript programming languages.
 - [Google Maps API](https://developers.google.com/maps) 
-    - Developer used **Visual Studio Code** to create the game in. 
+    - Developer used **Gogle Maps Api** to create the map. 
 - [Visual Studio Code](https://code.visualstudio.com/) 
-    - Developer used **Visual Studio Code** to create the game in. 
+    - Developer used **Visual Studio Code** to create the map. 
 - [GitHub](https://github.com/)
     - This project uses **GitHub** to store and share all project code remotely. 
 
@@ -64,7 +64,7 @@ To deploy Super Mario Map! to GitHub Pages from its [GitHub repository](https://
 3. From the menu items near the top of the page, select **Settings**.
 4. Scroll down to the **GitHub Pages** section.
 5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
-6. On selecting Master Branch the page is automatically refreshed, PicFlip! is now deployed. 
+6. On selecting Master Branch the page is automatically refreshed, Super Mario Map! is now deployed. 
 7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
 
 
