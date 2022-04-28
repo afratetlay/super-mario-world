@@ -18,11 +18,6 @@ I have created a Super Mario Themed map in relation to the Super Mario World The
 5. [**Deployment**](#deployment)
     - [**How to run this project locally**](#how-to-run-this-project-locally)
 
-6. [**Credits**](#credits)
-    - [**Content**](#content)
-    - [**Media**](#media)
-    - [**Code**](#code)
-    - [**Acknowledgements**](#acknowledgements)
 
 ## UX
 
@@ -50,7 +45,7 @@ This is quite a simple looking project, with the main aim of having included API
 - [Google Maps API](https://developers.google.com/maps) 
     - Developer used **Visual Studio Code** to create the game in. 
 - [Visual Studio Code](https://code.visualstudio.com/) 
-    - Developer used **Gitpod** to create the game in. 
+    - Developer used **Visual Studio Code** to create the game in. 
 - [GitHub](https://github.com/)
     - This project uses **GitHub** to store and share all project code remotely. 
 
