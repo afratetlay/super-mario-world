@@ -1,5 +1,7 @@
 # Super-Mario-World
-Super Mario World 
+<h1 align="center">Super Mario World</h1>
+
+Link: https://afratetlay.github.io/super-mario-world/ 
 
 I have created a Super Mario Themed map in relation to the Super Mario World Theme park in Japan. 
 
